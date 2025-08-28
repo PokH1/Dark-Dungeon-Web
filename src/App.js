@@ -99,7 +99,7 @@ export default function App(){
 
         <div className="flex flex-col md:flex-row items-center">
           <img
-            src="/images/playground.png"
+            src="/images/Playground.png"
             alt="Playground"
             className="rounded-2xl shadow-lg w-full md:w-2/3 mb-6 md:mb-0 md:mr-8"
           />
