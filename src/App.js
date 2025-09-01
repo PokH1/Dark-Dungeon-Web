@@ -8,7 +8,7 @@ export default function App(){
         <h1 className="text-2xl font-bold">Dark Dungeon</h1>
         <nav className="space-x-6">
           <a href="#about" className="hover:text-yellow-400">About</a>
-          <a href="#download" className="hover:text-yellow-400">Download</a>
+          <a href="#download" className="hover:text-yellow-400">Play</a>
           <a href="#characteres" className="hover:text-yellow-400">Characteres</a>
           <a href="#escenario" className="hover:text-yellow-400">Scenario</a>
         </nav>
@@ -25,7 +25,7 @@ export default function App(){
           that appear every few rounds.
         </p>
         <a 
-          href="#download" 
+          href="https://brilliant-medovik-aaa127.netlify.app/" 
           className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-400 transition"
           >
             Play Now
@@ -127,14 +127,14 @@ export default function App(){
       </section>
 
       {/* Descarga */}
-      <section className="py-20 px-6 bg-gray-800 text-center">
-        <h3 className="text-3xl font-bold mb-4">Download the game</h3>
+      <section id="download" className="py-20 px-6 bg-gray-800 text-center">
+        <h3 className="text-3xl font-bold mb-4">Play the game</h3>
         <p className="mb-6">Integrated with Vara Network</p>
         <a 
-          href="#"
+          href="https://brilliant-medovik-aaa127.netlify.app/"
           className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-400 transition"
         >
-          Download Dark Dungeon
+          Play Dark Dungeon
         </a>
       </section>
 
