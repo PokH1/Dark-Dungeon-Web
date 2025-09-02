@@ -25,7 +25,7 @@ export default function App(){
           that appear every few rounds.
         </p>
         <a 
-          href="https://brilliant-medovik-aaa127.netlify.app/" 
+          href="https://preeminent-ganache-c3f13b.netlify.app/" 
           className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-400 transition"
           >
             Play Now
@@ -131,7 +131,7 @@ export default function App(){
         <h3 className="text-3xl font-bold mb-4">Play the game</h3>
         <p className="mb-6">Integrated with Vara Network</p>
         <a 
-          href="https://brilliant-medovik-aaa127.netlify.app/"
+          href="https://preeminent-ganache-c3f13b.netlify.app/"
           className="bg-yellow-500 text-black px-6 py-3 rounded-xl font-semibold hover:bg-yellow-400 transition"
         >
           Play Dark Dungeon
